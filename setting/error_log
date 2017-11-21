@@ -1,0 +1,2 @@
+[21-Oct-2017 06:38:07 UTC] PHP Fatal error:  Call to a member function select() on null in /home/cp008652/public_html/ebilling/setting/index.php on line 126
+[21-Oct-2017 06:38:31 UTC] PHP Fatal error:  Call to a member function select() on null in /home/cp008652/public_html/ebilling/setting/index.php on line 126

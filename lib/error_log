@@ -1,0 +1,12 @@
+[07-Nov-2017 15:35:03 UTC] PHP Fatal error:  Using $this when not in object context in /home/cp008652/public_html/ebilling/lib/cryptagram.php on line 10
+[07-Nov-2017 15:35:05 UTC] PHP Fatal error:  Using $this when not in object context in /home/cp008652/public_html/ebilling/lib/cryptagram.php on line 10
+[07-Nov-2017 15:35:24 UTC] PHP Fatal error:  Using $this when not in object context in /home/cp008652/public_html/ebilling/lib/cryptagram.php on line 10
+[07-Nov-2017 15:35:25 UTC] PHP Fatal error:  Using $this when not in object context in /home/cp008652/public_html/ebilling/lib/cryptagram.php on line 10
+[07-Nov-2017 15:35:26 UTC] PHP Fatal error:  Using $this when not in object context in /home/cp008652/public_html/ebilling/lib/cryptagram.php on line 10
+[07-Nov-2017 15:35:48 UTC] PHP Fatal error:  Using $this when not in object context in /home/cp008652/public_html/ebilling/lib/cryptagram.php on line 10
+[07-Nov-2017 15:35:51 UTC] PHP Fatal error:  Using $this when not in object context in /home/cp008652/public_html/ebilling/lib/cryptagram.php on line 10
+[07-Nov-2017 15:36:12 UTC] PHP Fatal error:  Using $this when not in object context in /home/cp008652/public_html/ebilling/lib/cryptagram.php on line 10
+[07-Nov-2017 15:36:18 UTC] PHP Fatal error:  Using $this when not in object context in /home/cp008652/public_html/ebilling/lib/cryptagram.php on line 10
+[07-Nov-2017 15:36:42 UTC] PHP Fatal error:  Using $this when not in object context in /home/cp008652/public_html/ebilling/lib/cryptagram.php on line 10
+[07-Nov-2017 15:36:42 UTC] PHP Fatal error:  Using $this when not in object context in /home/cp008652/public_html/ebilling/lib/cryptagram.php on line 10
+[07-Nov-2017 15:36:50 UTC] PHP Fatal error:  Using $this when not in object context in /home/cp008652/public_html/ebilling/lib/cryptagram.php on line 10

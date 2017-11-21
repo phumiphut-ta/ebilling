@@ -1,0 +1,2 @@
+[21-Oct-2017 15:31:22 UTC] PHP Fatal error:  Call to a member function get() on null in /home/cp008652/public_html/ebilling/branch/MasterBranch.php on line 18
+[21-Oct-2017 15:31:24 UTC] PHP Fatal error:  Call to a member function get() on null in /home/cp008652/public_html/ebilling/branch/MasterBranch.php on line 18

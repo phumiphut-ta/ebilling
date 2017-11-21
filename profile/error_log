@@ -1,0 +1,12 @@
+[06-Nov-2017 12:49:26 UTC] PHP Warning:  require(../config/webconfig.ini): failed to open stream: No such file or directory in /home/cp008652/public_html/ebilling/profile/ProfileEdit_action.php on line 3
+[06-Nov-2017 12:49:26 UTC] PHP Fatal error:  require(): Failed opening required '../config/webconfig.ini' (include_path='.:/opt/cpanel/ea-php56/root/usr/share/pear') in /home/cp008652/public_html/ebilling/profile/ProfileEdit_action.php on line 3
+[06-Nov-2017 12:50:29 UTC] PHP Warning:  require(../config/webconfig.ini): failed to open stream: No such file or directory in /home/cp008652/public_html/ebilling/profile/ProfileEdit_action.php on line 3
+[06-Nov-2017 12:50:29 UTC] PHP Fatal error:  require(): Failed opening required '../config/webconfig.ini' (include_path='.:/opt/cpanel/ea-php56/root/usr/share/pear') in /home/cp008652/public_html/ebilling/profile/ProfileEdit_action.php on line 3
+[06-Nov-2017 12:51:08 UTC] PHP Warning:  require(../config/webconfig.ini): failed to open stream: No such file or directory in /home/cp008652/public_html/ebilling/profile/ProfileEdit_action.php on line 3
+[06-Nov-2017 12:51:08 UTC] PHP Fatal error:  require(): Failed opening required '../config/webconfig.ini' (include_path='.:/opt/cpanel/ea-php56/root/usr/share/pear') in /home/cp008652/public_html/ebilling/profile/ProfileEdit_action.php on line 3
+[06-Nov-2017 12:51:52 UTC] PHP Warning:  PDO::__construct(): php_network_getaddresses: getaddrinfo failed: Name or service not known in /home/cp008652/public_html/ebilling/lib/Medoo.php on line 232
+[06-Nov-2017 12:51:52 UTC] PHP Fatal error:  Uncaught exception 'Exception' with message 'SQLSTATE[HY000] [2002] php_network_getaddresses: getaddrinfo failed: Name or service not known' in /home/cp008652/public_html/ebilling/lib/Medoo.php:240
+Stack trace:
+#0 /home/cp008652/public_html/ebilling/profile/ProfileEdit_action.php(14): Medoo\Medoo->__construct(Array)
+#1 {main}
+  thrown in /home/cp008652/public_html/ebilling/lib/Medoo.php on line 240
