@@ -142,7 +142,7 @@ $database = new Medoo([
                                       <td><?php echo $bill[$i]['ref_no']; ?></td>
                                       <td><?php echo $bill[$i]['billing_date']; ?></td>
                                       <td>
-                                          <div class="btn-group  btn-group-sm">
+                                          <div class="btn-group  btn-group-xs">
                                               <a target="billpage" href="../pdf/generateBill.php?id=<?php echo $bill[$i]['id']; ?>" class="btn btn-success btn-xs"><i class="fa fa-print"></i> พิมพ์ </a>
                                             <a href="BillEdit.php?id=<?php echo $bill[$i]['id']; ?>" class="btn btn-warning btn-xs"><i class="fa fa-edit"></i> แก้ไข </a>
                                             <a data-href="BillDelete.php?id=<?php echo $bill[$i]['id']; ?>" data-toggle="modal" data-target="#confirm-delete" class="btn btn-danger btn-xs"><i class="fa fa-trash-o"></i> ยกเลิก </a>

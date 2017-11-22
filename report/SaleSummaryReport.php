@@ -82,7 +82,9 @@ $database = new Medoo([
                 <div class="x_panel">
                   <div class="x_title">
                     <h2>รายงานสรุปยอดขายรายเดือน</h2>
-                    
+                    <ul class="nav navbar-right panel_toolbox">
+                     <button type="button" class="btn btn-danger btn-sm">ตั้งค่ารายงาน</button>
+                    </ul>
                     <div class="clearfix"></div>
                   </div>
                   <div class="x_content">
@@ -106,7 +108,7 @@ $database = new Medoo([
                                             <td><?php echo $reports[$i]['Year']+543; ?></td>
                                             <td><?php echo $thaimonth[($reports[$i]['Month']-1)]; ?></td>
                                             <td>
-                                                <div class="btn-group  btn-group-sm">
+                                                <div class="btn-group  btn-group-xs">
                                                     <a href="SaleSummaryReport_action.php?year=<?php echo $reports[$i]['Year']; ?>&month=<?php echo $reports[$i]['Month']; ?>" target="report" class="btn btn-success btn-xs"><i class="fa fa-search"></i> ดูข้อมูล </a>
                                                 </div>
                                             </td>

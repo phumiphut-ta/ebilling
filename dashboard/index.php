@@ -84,7 +84,7 @@ require '../config/webconfig.php';
                     <div class="clearfix"></div>
                   </div>
                   <div class="x_content">
-
+                     <iframe width="100%" height="700" src="https://app.powerbi.com/view?r=eyJrIjoiZjYxNGZiNzUtNDM0NC00M2QwLWExYjMtODUzMGE5ZWNiNTU0IiwidCI6ImEzMzU2M2FlLWUxNTUtNDA0OS05N2UwLTY4MTg3NWFiZmY5NSIsImMiOjEwfQ%3D%3D" frameborder="0" allowFullScreen="true"></iframe>       
                   </div>
                 </div>
               </div>

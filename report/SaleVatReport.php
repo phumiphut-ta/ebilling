@@ -106,7 +106,7 @@ $database = new Medoo([
                                             <td><?php echo $reports[$i]['Year']+543; ?></td>
                                             <td><?php echo $thaimonth[($reports[$i]['Month']-1)]; ?></td>
                                             <td>
-                                                <div class="btn-group  btn-group-sm">
+                                                <div class="btn-group  btn-group-xs">
                                                     <a href="SaleVatReport_action.php?year=<?php echo $reports[$i]['Year']; ?>&month=<?php echo $reports[$i]['Month']; ?>" target="report" class="btn btn-success btn-xs"><i class="fa fa-search"></i> ดูข้อมูล </a>
                                                 </div>
                                             </td>
